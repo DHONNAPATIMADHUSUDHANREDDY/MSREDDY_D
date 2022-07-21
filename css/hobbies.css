@@ -1,0 +1,22 @@
+html {
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCnT-EXP-aUhktMkNlLWq5Y3v6JPwSKmxF3Q&usqp=CAU) no-repeat center center fixed;
+  background-size: contain;
+  height: 100%;
+  overflow: hidden;
+}
+html{
+  background-color: black;
+}
+.s1{
+color : white;
+float:left;
+clear:left;
+margin-top: 80px;
+margin-left: 200px;
+}
+.s2{
+  float:right;
+  clear:right;
+  margin-top: 200px;
+  margin-right: 200px;
+}
